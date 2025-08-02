@@ -83,9 +83,8 @@ For Hardware:
 *Explain the final build*
 
 ### Project Demo
-# Video
-
-*Explain what the video demonstrates*
+ [Video](https://github.com/arwajasminn/useless_project_temp/issues/1#issue-3285443587)
+The video shows how the project have been created with absolutely no use. Within the video shows how the ball is controlled by the user, gravity and how it falls off after passing hundred.
 
 # Additional Demos
 [Add any extra demo materials/links]
