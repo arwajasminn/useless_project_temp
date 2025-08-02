@@ -14,21 +14,21 @@
 - Member 3: [Name] - [College]
 
 ### Project Description
-[A volume slider that does not actually decrease or increase anything cause there's nothing playing in the background. Once the slider passes 100, it falls off the slider and a message pops up saying "Sanity lost!" and the slider breaks down into pieces where then the user has to place those pieces in the right order for the slider to be functioning again!]
+[A volume slider that does not actually decrease or increase anything cause there's nothing playing in the background. Once the slider passes 100, it falls off the slider and sadly you'll have to pick it up and place it back on the slider or else the volume gets into a "complex" situation!]
 
 ### The Problem (that doesn't exist)
 [Sliders-once symbols of control and stability,are now abused- recklessly dragged beyond their limits.No one asks what happens after 100.No one cares when the slider cries.]
 
 ### The Solution (that nobody asked for)
-[How are you solving it? Keep it fun!]
+[We gave the slider emotions — because sliders have feelings too. Past 100, it doesn’t just get louder; it starts questioning its existence. So it rolls, falls, bounces, and breaks free… until society (the sine wave) pulls it back.]
 
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
-- [Frameworks used]
-- [Libraries used]
-- [Tools used]
+- [HTML, CSS, JavaScript]
+- [None- pure Vanilla JS for maximum chaos]
+- [None- pure Vanilla JS for maximum chaos]
+- [Visual Studio Code , Git and Github for version control, Vercel- quick and easy deployment]
 
 For Hardware:
 - [List main components]
@@ -48,13 +48,16 @@ For Software:
 
 # Screenshots (Add at least 3)
 ![Screenshot1](Add screenshot 1 here with proper name)
-*Add caption explaining what this shows*
+<img width="1870" height="941" alt="Screenshot 2025-08-02 062625" src="https://github.com/user-attachments/assets/4f85b625-e7bf-4c36-be52-8cfe38429056" />
+Shows how the ball on the slider falls from the peak following gravity.
 
 ![Screenshot2](Add screenshot 2 here with proper name)
-*Add caption explaining what this shows*
+<img width="1854" height="935" alt="Screenshot 2025-08-02 062718" src="https://github.com/user-attachments/assets/75218afc-b38e-4a16-8f23-161917ce40f1" />
+The ball is off of the slider cause the user had moved it beyond hundred.
 
 ![Screenshot3](Add screenshot 3 here with proper name)
-*Add caption explaining what this shows*
+<img width="1919" height="939" alt="Screenshot 2025-08-02 062908" src="https://github.com/user-attachments/assets/516f8d26-e3fd-43bc-9751-2b2892ef28d6" />
+SShows the initial state.
 
 # Diagrams
 ![Workflow](Add your workflow/architecture diagram here)
@@ -81,7 +84,7 @@ For Hardware:
 
 ### Project Demo
 # Video
-[Add your demo video link here]
+
 *Explain what the video demonstrates*
 
 # Additional Demos
